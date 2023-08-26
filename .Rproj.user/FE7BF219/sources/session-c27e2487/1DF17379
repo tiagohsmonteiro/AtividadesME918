@@ -1,0 +1,28 @@
+{
+    "id": "1DF17379",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1693082289550.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "7d479c066f7d4fd78c2727e043010214",
+        "name": "simulacao",
+        "title": "simulacao",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 18859063962304577,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1693082289550,
+    "read_only": false,
+    "read_only_alternatives": []
+}
