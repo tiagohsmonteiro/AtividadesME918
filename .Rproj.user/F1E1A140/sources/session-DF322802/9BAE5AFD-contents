@@ -1,0 +1,5 @@
+library(purrr)
+
+source("executa.R")
+
+map(amostra, function(x) amostra[[x]])
